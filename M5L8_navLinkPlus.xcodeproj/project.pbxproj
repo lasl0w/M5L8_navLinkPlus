@@ -12,6 +12,7 @@
 		F14C792C29766873009180C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F14C792B29766873009180C8 /* Assets.xcassets */; };
 		F14C792F29766873009180C8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F14C792E29766873009180C8 /* Preview Assets.xcassets */; };
 		F14C79362976688A009180C8 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14C79352976688A009180C8 /* SecondView.swift */; };
+		F15CCE1229790153002226BE /* tempView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15CCE1129790153002226BE /* tempView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		F14C792B29766873009180C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F14C792E29766873009180C8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F14C79352976688A009180C8 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		F15CCE1129790153002226BE /* tempView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tempView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				F14C792729766871009180C8 /* M5L8_navLinkPlusApp.swift */,
 				F14C792929766871009180C8 /* ContentView.swift */,
 				F14C79352976688A009180C8 /* SecondView.swift */,
+				F15CCE1129790153002226BE /* tempView.swift */,
 				F14C792B29766873009180C8 /* Assets.xcassets */,
 				F14C792D29766873009180C8 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				F14C79362976688A009180C8 /* SecondView.swift in Sources */,
 				F14C792A29766871009180C8 /* ContentView.swift in Sources */,
+				F15CCE1229790153002226BE /* tempView.swift in Sources */,
 				F14C792829766871009180C8 /* M5L8_navLinkPlusApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
